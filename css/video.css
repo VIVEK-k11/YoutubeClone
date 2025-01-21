@@ -17,7 +17,7 @@ grid-template-columns:1fr 1fr;
  }
  }
 
-@media(min-width:1530px){
+@media(min-width:1730px){
 .video-grid{
 grid-template-columns:1fr 1fr 1fr 1fr;
 }
